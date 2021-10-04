@@ -22,3 +22,8 @@ function execm() {
         alert("Invalid Input");
     }
 }
+function reset() {
+    useinp.value = "";
+    compinp.value = "";
+    tbcal = "";
+}
